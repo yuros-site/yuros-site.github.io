@@ -1,0 +1,29 @@
+{
+	"folders": [
+		{
+			"name": "landing",
+			"path": "../landing"
+		},
+		{
+			"name": "course",
+			"path": "."
+		},
+		{
+			"name": "corest",
+			"path": "../../../rozard/system/corest"
+		},
+		{
+			"name": "devels",
+			"path": "../../../rozard/system/devels"
+		},
+		{
+			"name": "course",
+			"path": "../../../rozard/system/course"
+		},
+		{
+			"name": "default",
+			"path": "../../../rozard/course/default"
+		}
+	],
+	"settings": {}
+}
