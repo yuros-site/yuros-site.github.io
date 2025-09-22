@@ -7,9 +7,9 @@ thumb:
     anima: ""
     video: ""
 weight: 1
-layout: "mile"
+layout: ""
 canals:
-    youtube: ""
+    youtube: "as"
     spotify: ""
 heading:
     lead: "Develop Skills That Move Your Career Forward"

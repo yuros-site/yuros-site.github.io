@@ -7,7 +7,7 @@ thumb:
     anima: ""
     video: ""
 weight: 1
-layout: "more"
+layout: ""
 canals:
     youtube: ""
     spotify: ""
