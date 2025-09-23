@@ -2,6 +2,8 @@ github.com/almuhdilkarim/libarch-basic v0.0.0-20250923163155-beb1d339dc86 h1:1Gx
 github.com/almuhdilkarim/libarch-basic v0.0.0-20250923163155-beb1d339dc86/go.mod h1:WqsAyDRHcoNbjLQwCaEB/SI6nZF89nZFUpfpq3Iv9Ac=
 github.com/almuhdilkarim/libarch-basic v0.0.0-20250923170314-07519e698027 h1:pL3SW8IticFX+m/3slkyf1aaT6dEtFzkVKW8vAHR27k=
 github.com/almuhdilkarim/libarch-basic v0.0.0-20250923170314-07519e698027/go.mod h1:WqsAyDRHcoNbjLQwCaEB/SI6nZF89nZFUpfpq3Iv9Ac=
+github.com/almuhdilkarim/libarch-basic v0.0.0-20250923175145-3500c19808dc h1:n5FX88EAFbCrmJYR9JUWYZ2u9VqgFc4nGW0l25pIlNA=
+github.com/almuhdilkarim/libarch-basic v0.0.0-20250923175145-3500c19808dc/go.mod h1:WqsAyDRHcoNbjLQwCaEB/SI6nZF89nZFUpfpq3Iv9Ac=
 github.com/almuhdilkarim/mariadb-basic v0.0.0-20250923162451-2c72fd48709c h1:5MjBm0I6Vz1sj6oFgs56C+qVOPBQNlNEbyhInv8/ti0=
 github.com/almuhdilkarim/mariadb-basic v0.0.0-20250923162451-2c72fd48709c/go.mod h1:ZiQNmaRMvsUxWgTee7mCu1mD/sPR1dtng4SbRMKs4uQ=
 github.com/almuhdilkarim/webdev-basic v0.0.0-20250921115319-6a79e02ed50e h1:UJisdDEDrIHKYitzbPVO8tXDF+4tT2M7y9KGvAur2JA=
@@ -14,6 +16,8 @@ github.com/rozard-genset/corest v0.0.0-20250922020959-1f96e18cb2ea h1:Ol2sLCs+fC
 github.com/rozard-genset/corest v0.0.0-20250922020959-1f96e18cb2ea/go.mod h1:PmFYnMKkS/t6+Two/rxZh+kPOmaqZMuq1OrKbD4RA/w=
 github.com/rozard-genset/corest v0.0.0-20250923174525-26e5f6a5ea79 h1:KoBAkudzGjIFOu0uPS01mDM545GrT8deYPLTyMzEO/U=
 github.com/rozard-genset/corest v0.0.0-20250923174525-26e5f6a5ea79/go.mod h1:PmFYnMKkS/t6+Two/rxZh+kPOmaqZMuq1OrKbD4RA/w=
+github.com/rozard-genset/corest v0.0.0-20250923174850-04c3aa591e44 h1:6RJtlJ2OBiiaDnQ109eF8AGLUiCiz5ga9zGckdHJllc=
+github.com/rozard-genset/corest v0.0.0-20250923174850-04c3aa591e44/go.mod h1:PmFYnMKkS/t6+Two/rxZh+kPOmaqZMuq1OrKbD4RA/w=
 github.com/rozard-genset/course v0.0.0-20250922000105-b4ca842f57ce h1:zgzRajoTwn76sT7IkoHztTJLRZCq0tyeNmwXPnXi+AA=
 github.com/rozard-genset/course v0.0.0-20250922000105-b4ca842f57ce/go.mod h1:772SeMZtqkqDhSU59h6+xqOjCadi3t+REe5TS+O0ab4=
 github.com/rozard-genset/course v0.0.0-20250922102852-c901c558aa01 h1:5DYiFgBQwLVLGxPA8YNpB3l4jekDzZ1GrzEXC9uIrTQ=
