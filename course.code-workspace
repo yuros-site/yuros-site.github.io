@@ -5,10 +5,6 @@
 			"path": "../landing"
 		},
 		{
-			"name": "course",
-			"path": "."
-		},
-		{
 			"name": "corest",
 			"path": "../../../rozard/system/corest"
 		},
@@ -23,6 +19,15 @@
 		{
 			"name": "default",
 			"path": "../../../rozard/course/default"
+		},
+		{
+			"path": "../../../personal/lecture/webdev-basic"
+		},
+		{
+			"path": "../../../personal/lecture/mariadb-basic"
+		},
+		{
+			"path": "../../../personal/lecture/libarch-basic"
 		}
 	],
 	"settings": {}
