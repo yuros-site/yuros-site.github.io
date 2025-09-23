@@ -1,5 +1,7 @@
 github.com/almuhdilkarim/libarch-basic v0.0.0-20250923163155-beb1d339dc86 h1:1GxTwhyUmnNrKafAHZMFo+MOizkSEF2P9MpbiLjEXrY=
 github.com/almuhdilkarim/libarch-basic v0.0.0-20250923163155-beb1d339dc86/go.mod h1:WqsAyDRHcoNbjLQwCaEB/SI6nZF89nZFUpfpq3Iv9Ac=
+github.com/almuhdilkarim/libarch-basic v0.0.0-20250923170314-07519e698027 h1:pL3SW8IticFX+m/3slkyf1aaT6dEtFzkVKW8vAHR27k=
+github.com/almuhdilkarim/libarch-basic v0.0.0-20250923170314-07519e698027/go.mod h1:WqsAyDRHcoNbjLQwCaEB/SI6nZF89nZFUpfpq3Iv9Ac=
 github.com/almuhdilkarim/mariadb-basic v0.0.0-20250923162451-2c72fd48709c h1:5MjBm0I6Vz1sj6oFgs56C+qVOPBQNlNEbyhInv8/ti0=
 github.com/almuhdilkarim/mariadb-basic v0.0.0-20250923162451-2c72fd48709c/go.mod h1:ZiQNmaRMvsUxWgTee7mCu1mD/sPR1dtng4SbRMKs4uQ=
 github.com/almuhdilkarim/webdev-basic v0.0.0-20250921115319-6a79e02ed50e h1:UJisdDEDrIHKYitzbPVO8tXDF+4tT2M7y9KGvAur2JA=
@@ -10,9 +12,15 @@ github.com/rozard-genset/corest v0.0.0-20250921232507-556937ba0a8d h1:L8LObgdrVX
 github.com/rozard-genset/corest v0.0.0-20250921232507-556937ba0a8d/go.mod h1:PmFYnMKkS/t6+Two/rxZh+kPOmaqZMuq1OrKbD4RA/w=
 github.com/rozard-genset/corest v0.0.0-20250922020959-1f96e18cb2ea h1:Ol2sLCs+fC5iS4UhozUzlGm3SHkU7NsuvPtBPMAR0H8=
 github.com/rozard-genset/corest v0.0.0-20250922020959-1f96e18cb2ea/go.mod h1:PmFYnMKkS/t6+Two/rxZh+kPOmaqZMuq1OrKbD4RA/w=
+github.com/rozard-genset/corest v0.0.0-20250923174525-26e5f6a5ea79 h1:KoBAkudzGjIFOu0uPS01mDM545GrT8deYPLTyMzEO/U=
+github.com/rozard-genset/corest v0.0.0-20250923174525-26e5f6a5ea79/go.mod h1:PmFYnMKkS/t6+Two/rxZh+kPOmaqZMuq1OrKbD4RA/w=
 github.com/rozard-genset/course v0.0.0-20250922000105-b4ca842f57ce h1:zgzRajoTwn76sT7IkoHztTJLRZCq0tyeNmwXPnXi+AA=
 github.com/rozard-genset/course v0.0.0-20250922000105-b4ca842f57ce/go.mod h1:772SeMZtqkqDhSU59h6+xqOjCadi3t+REe5TS+O0ab4=
 github.com/rozard-genset/course v0.0.0-20250922102852-c901c558aa01 h1:5DYiFgBQwLVLGxPA8YNpB3l4jekDzZ1GrzEXC9uIrTQ=
 github.com/rozard-genset/course v0.0.0-20250922102852-c901c558aa01/go.mod h1:772SeMZtqkqDhSU59h6+xqOjCadi3t+REe5TS+O0ab4=
+github.com/rozard-genset/course v0.0.0-20250923165129-7edc6e959684 h1:Qwt3D9IB1MBM7V3vp+nSIT5XchOWqGpwI6T3X5O/kqY=
+github.com/rozard-genset/course v0.0.0-20250923165129-7edc6e959684/go.mod h1:772SeMZtqkqDhSU59h6+xqOjCadi3t+REe5TS+O0ab4=
+github.com/rozard-genset/course v0.0.0-20250923165352-ba524d8715d3 h1:lgCn8XXBumt8V8tcpZgbcCxc9U1uvXI/yA2XcrTbpt4=
+github.com/rozard-genset/course v0.0.0-20250923165352-ba524d8715d3/go.mod h1:qcC0Jd5nUQjIU6zmzPZfklP+1FVM1lFcQ0CYsyjl+Wg=
 github.com/rozard-genset/micros v0.0.0-20250922005641-13708dd21cf2 h1:IKeEmqGR6lSWavQhdQKTwVtJxeDfDCAAFGRGf0Xz7i8=
 github.com/rozard-genset/micros v0.0.0-20250922005641-13708dd21cf2/go.mod h1:ibb7VwG9JYuISgp5Ilepn7p8dbjwIppaGgzd4iKKlKg=
