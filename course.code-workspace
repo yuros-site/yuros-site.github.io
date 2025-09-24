@@ -28,6 +28,9 @@
 		},
 		{
 			"path": "../../../personal/lecture/libarch-basic"
+		},
+		{
+			"path": "../../../personal/lecture/jscript-basic"
 		}
 	],
 	"settings": {}
