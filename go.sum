@@ -12,10 +12,18 @@ github.com/almuhdilkarim/mariadb-basic v0.0.0-20250923175418-bf15efd54845 h1:r41
 github.com/almuhdilkarim/mariadb-basic v0.0.0-20250923175418-bf15efd54845/go.mod h1:ZiQNmaRMvsUxWgTee7mCu1mD/sPR1dtng4SbRMKs4uQ=
 github.com/almuhdilkarim/mariadb-basic v0.0.0-20250923175653-42297bc8ac32 h1:B3G8Uu3Z39sso7l1lu7AlpxxwWyQFGTlr3u9UE9+BRQ=
 github.com/almuhdilkarim/mariadb-basic v0.0.0-20250923175653-42297bc8ac32/go.mod h1:ZiQNmaRMvsUxWgTee7mCu1mD/sPR1dtng4SbRMKs4uQ=
+github.com/almuhdilkarim/mariadb-basic v0.0.0-20250924225453-fe1c51dc7bdb h1:Brt7FYaTUufQSf+sjLP9IJNqeXI/uwgQ34UVjAWx87I=
+github.com/almuhdilkarim/mariadb-basic v0.0.0-20250924225453-fe1c51dc7bdb/go.mod h1:ZiQNmaRMvsUxWgTee7mCu1mD/sPR1dtng4SbRMKs4uQ=
+github.com/almuhdilkarim/mariadb-basic v0.0.0-20250928061514-da9279f9ff7e h1:cyIyVORsSbsIMQ+8EhbYmweuuujnIRJTnhZItpf1ZXI=
+github.com/almuhdilkarim/mariadb-basic v0.0.0-20250928061514-da9279f9ff7e/go.mod h1:ZiQNmaRMvsUxWgTee7mCu1mD/sPR1dtng4SbRMKs4uQ=
 github.com/almuhdilkarim/webdev-basic v0.0.0-20250921115319-6a79e02ed50e h1:UJisdDEDrIHKYitzbPVO8tXDF+4tT2M7y9KGvAur2JA=
 github.com/almuhdilkarim/webdev-basic v0.0.0-20250921115319-6a79e02ed50e/go.mod h1:e370uCktLL1MvSj10AP8hpoS/N6YaNiAooYPBUDqP+c=
 github.com/almuhdilkarim/webdev-basic v0.0.0-20250923162420-2425a59c2b29 h1:+BG7k4D9adgJ4E6mdCi+KqvEYkUHuDLR/xKUW42hLGQ=
 github.com/almuhdilkarim/webdev-basic v0.0.0-20250923162420-2425a59c2b29/go.mod h1:e370uCktLL1MvSj10AP8hpoS/N6YaNiAooYPBUDqP+c=
+github.com/almuhdilkarim/webdev-basic v0.0.0-20250924225442-806765996325 h1:VPaveFnpneEnWe05SslZ/RMDeDUFE8IoV0mdABv6EOg=
+github.com/almuhdilkarim/webdev-basic v0.0.0-20250924225442-806765996325/go.mod h1:e370uCktLL1MvSj10AP8hpoS/N6YaNiAooYPBUDqP+c=
+github.com/almuhdilkarim/webdev-basic v0.0.0-20250925183003-e3494d338019 h1:t7XNLN6Zjj8myyPT8HZZwNMZeUxyESSAeLAlRvR5VT4=
+github.com/almuhdilkarim/webdev-basic v0.0.0-20250925183003-e3494d338019/go.mod h1:e370uCktLL1MvSj10AP8hpoS/N6YaNiAooYPBUDqP+c=
 github.com/rozard-genset/corest v0.0.0-20250921232507-556937ba0a8d h1:L8LObgdrVXEV4e6pvgTIViADCZVsDotkTS2ZszFVZG8=
 github.com/rozard-genset/corest v0.0.0-20250921232507-556937ba0a8d/go.mod h1:PmFYnMKkS/t6+Two/rxZh+kPOmaqZMuq1OrKbD4RA/w=
 github.com/rozard-genset/corest v0.0.0-20250922020959-1f96e18cb2ea h1:Ol2sLCs+fC5iS4UhozUzlGm3SHkU7NsuvPtBPMAR0H8=
@@ -24,6 +32,8 @@ github.com/rozard-genset/corest v0.0.0-20250923174525-26e5f6a5ea79 h1:KoBAkudzGj
 github.com/rozard-genset/corest v0.0.0-20250923174525-26e5f6a5ea79/go.mod h1:PmFYnMKkS/t6+Two/rxZh+kPOmaqZMuq1OrKbD4RA/w=
 github.com/rozard-genset/corest v0.0.0-20250923174850-04c3aa591e44 h1:6RJtlJ2OBiiaDnQ109eF8AGLUiCiz5ga9zGckdHJllc=
 github.com/rozard-genset/corest v0.0.0-20250923174850-04c3aa591e44/go.mod h1:PmFYnMKkS/t6+Two/rxZh+kPOmaqZMuq1OrKbD4RA/w=
+github.com/rozard-genset/corest v0.0.0-20250927145353-4f813990f0b7 h1:vHP0hf4SNSn6lOOE4C4M3SWyPeocX/fuBErMUFimxF8=
+github.com/rozard-genset/corest v0.0.0-20250927145353-4f813990f0b7/go.mod h1:PmFYnMKkS/t6+Two/rxZh+kPOmaqZMuq1OrKbD4RA/w=
 github.com/rozard-genset/course v0.0.0-20250922000105-b4ca842f57ce h1:zgzRajoTwn76sT7IkoHztTJLRZCq0tyeNmwXPnXi+AA=
 github.com/rozard-genset/course v0.0.0-20250922000105-b4ca842f57ce/go.mod h1:772SeMZtqkqDhSU59h6+xqOjCadi3t+REe5TS+O0ab4=
 github.com/rozard-genset/course v0.0.0-20250922102852-c901c558aa01 h1:5DYiFgBQwLVLGxPA8YNpB3l4jekDzZ1GrzEXC9uIrTQ=
@@ -32,5 +42,7 @@ github.com/rozard-genset/course v0.0.0-20250923165129-7edc6e959684 h1:Qwt3D9IB1M
 github.com/rozard-genset/course v0.0.0-20250923165129-7edc6e959684/go.mod h1:772SeMZtqkqDhSU59h6+xqOjCadi3t+REe5TS+O0ab4=
 github.com/rozard-genset/course v0.0.0-20250923165352-ba524d8715d3 h1:lgCn8XXBumt8V8tcpZgbcCxc9U1uvXI/yA2XcrTbpt4=
 github.com/rozard-genset/course v0.0.0-20250923165352-ba524d8715d3/go.mod h1:qcC0Jd5nUQjIU6zmzPZfklP+1FVM1lFcQ0CYsyjl+Wg=
+github.com/rozard-genset/course v0.0.0-20250927145051-c3cf0bfd2086 h1:3uaw6WsWLzMiyAyxlOTRC3tf1wFnAuQOy1LAGknEZDQ=
+github.com/rozard-genset/course v0.0.0-20250927145051-c3cf0bfd2086/go.mod h1:qcC0Jd5nUQjIU6zmzPZfklP+1FVM1lFcQ0CYsyjl+Wg=
 github.com/rozard-genset/micros v0.0.0-20250922005641-13708dd21cf2 h1:IKeEmqGR6lSWavQhdQKTwVtJxeDfDCAAFGRGf0Xz7i8=
 github.com/rozard-genset/micros v0.0.0-20250922005641-13708dd21cf2/go.mod h1:ibb7VwG9JYuISgp5Ilepn7p8dbjwIppaGgzd4iKKlKg=
