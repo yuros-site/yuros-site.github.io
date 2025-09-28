@@ -1,0 +1,7 @@
+#!/bin/bash
+
+hugo mod clean &&
+hugo mod get -u &&
+git add . &&
+git commit -m "update" &&
+git push

@@ -4,7 +4,7 @@ go 1.25.1
 
 require (
 	github.com/almuhdilkarim/libarch-basic v0.0.0-20250923175702-05fa2bff6943 // indirect
-	github.com/almuhdilkarim/mariadb-basic v0.0.0-20250928113757-0c8e4a7d0928 // indirect
+	github.com/almuhdilkarim/mariadb-basic v0.0.0-20250928114931-408a264fe2c7 // indirect
 	github.com/almuhdilkarim/webdev-basic v0.0.0-20250925183003-e3494d338019 // indirect
 	github.com/rozard-genset/corest v0.0.0-20250927145353-4f813990f0b7 // indirect
 	github.com/rozard-genset/course v0.0.0-20250927145051-c3cf0bfd2086 // indirect
