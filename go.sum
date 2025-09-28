@@ -16,6 +16,8 @@ github.com/almuhdilkarim/mariadb-basic v0.0.0-20250924225453-fe1c51dc7bdb h1:Brt
 github.com/almuhdilkarim/mariadb-basic v0.0.0-20250924225453-fe1c51dc7bdb/go.mod h1:ZiQNmaRMvsUxWgTee7mCu1mD/sPR1dtng4SbRMKs4uQ=
 github.com/almuhdilkarim/mariadb-basic v0.0.0-20250928061514-da9279f9ff7e h1:cyIyVORsSbsIMQ+8EhbYmweuuujnIRJTnhZItpf1ZXI=
 github.com/almuhdilkarim/mariadb-basic v0.0.0-20250928061514-da9279f9ff7e/go.mod h1:ZiQNmaRMvsUxWgTee7mCu1mD/sPR1dtng4SbRMKs4uQ=
+github.com/almuhdilkarim/mariadb-basic v0.0.0-20250928113757-0c8e4a7d0928 h1:GBWP360+OlzmZgbC82f3Y6SylM0FG75VcQSxYPB73B4=
+github.com/almuhdilkarim/mariadb-basic v0.0.0-20250928113757-0c8e4a7d0928/go.mod h1:ZiQNmaRMvsUxWgTee7mCu1mD/sPR1dtng4SbRMKs4uQ=
 github.com/almuhdilkarim/webdev-basic v0.0.0-20250921115319-6a79e02ed50e h1:UJisdDEDrIHKYitzbPVO8tXDF+4tT2M7y9KGvAur2JA=
 github.com/almuhdilkarim/webdev-basic v0.0.0-20250921115319-6a79e02ed50e/go.mod h1:e370uCktLL1MvSj10AP8hpoS/N6YaNiAooYPBUDqP+c=
 github.com/almuhdilkarim/webdev-basic v0.0.0-20250923162420-2425a59c2b29 h1:+BG7k4D9adgJ4E6mdCi+KqvEYkUHuDLR/xKUW42hLGQ=

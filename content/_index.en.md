@@ -1,5 +1,5 @@
 ---
-title: "Homepage"
+title: "yuros homepage"
 module:
 blocks:
     - model: 
